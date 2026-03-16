@@ -7,7 +7,7 @@ This repository contains my structured technical notes and laboratory documentat
 ## 🏆 Completion Status: 100%
 - **Path Completed**: March 15, 2026
 - **Total Modules**: 7
-- **Evidence**: [Certificate of Completion](./certificates/pre-security-completion.pdf) (If available)
+- **Evidence**: [Certificate of Completion](./certificates/pre-security-completion.pdf)
 
 ---
 
